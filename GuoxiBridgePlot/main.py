@@ -2,4 +2,4 @@
 from GuoxiBridgePlot import GuoxiBridge
 
 gxb=GuoxiBridge()
-gxb.PlotDeckElevation()
+gxb.PlotTowerDispTimeHistory()
