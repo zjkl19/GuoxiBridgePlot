@@ -2,4 +2,6 @@
 from GuoxiBridgePlot import GuoxiBridge
 
 gxb=GuoxiBridge()
-gxb.PlotTowerDispTimeHistory()
+gxb.PlotYCableLineShape()
+
+
